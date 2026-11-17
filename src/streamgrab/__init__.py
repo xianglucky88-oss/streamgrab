@@ -1,1 +1,1 @@
-"""streamgrab baseline (single-responsibility pipeline)."""
+"""streamgrab package (single-responsibility pipeline)."""
